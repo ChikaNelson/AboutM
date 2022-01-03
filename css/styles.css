@@ -1,0 +1,141 @@
+
+div{margin: 0;
+}
+h1{margin: auto; color: #A04000;
+  font-family: 'Sacramento', cursive;
+  font-size: 3.5rem;
+  margin-top: 50px;
+  line-height: 1;
+ }
+
+h2{color: #BA4A00;
+  font-weight: normal;
+  font-family: 'Monteserrat', sans-serif;
+  font-size: 2rem;
+  padding-bottom: 10px;
+
+}
+
+h3{
+  color: #11999E;
+}
+
+.big-mountain{
+  margin: 0 auto 0 auto;
+}
+
+p{margin: 10 0 0 0;}
+
+body{ margin: 0; text-align: center;
+  color: #40514E;
+  background-color: #EAF6F6;
+
+}
+.top-container{background-color: skyblue;
+  position: relative;
+  padding-top: 100px;
+  margin:0;
+  text-align: center;
+}
+
+
+.middle-container{background-color: #EAF6F6;
+  margin: 100px 0;
+}
+
+hr{border: dotted black 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+
+}
+
+.item-desc{
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+}
+
+
+  .bottom-container
+  {
+    background-color: #66BFBF;
+    margin:0;
+    padding: 50px 0 20px;
+  }
+
+.get-me{
+ width: 40%;
+ margin:40px auto 60px;
+ line-height: 2;
+}
+.top-cloud{position: absolute;
+right: 200px;
+top: 50px;
+
+  }
+
+  .small-cloud{position: absolute;
+      left: 250px;
+      bottom: 300px;}
+
+  .myprofile-pic{
+    background-color: white;
+    width: 150px;
+    outline: 0;
+    padding-top: 10px;
+  }
+
+.Web-D{text-decoration: underline;}
+
+.skill-row{width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+
+}
+
+.world-wide{
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.my-car{
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+
+.btn {
+  font-size:20px;
+  font-family:Arial;
+  width:162px;
+  height:62px;
+  border-width:0px;
+  color:#fff;
+  border-color:#4e6096;
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
+  border-bottom-left-radius:8px;
+  border-bottom-right-radius:8px;
+
+  background:linear-gradient(rgba(15, 158, 19, 1), rgba(66, 91, 57, 1));
+}
+
+.btn:hover {
+  background: linear-gradient(rgba(66, 91, 57, 1), rgba(15, 158, 19, 1));
+}
+a{color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{color: #EAF6F6;
+
+}
+.my-name{color:  #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+
+}
